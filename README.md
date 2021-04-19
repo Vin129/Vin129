@@ -7,7 +7,7 @@
 
 [CSDN](https://blog.csdn.net/qq_28820675)
 
-[![Vin129's GitHub stats](https://github-readme-stats.vercel.app/apiVin129anuraghazra&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+![Vin129's GitHub stats](https://github-readme-stats.vercel.app/apiVin129anuraghazra)
 
 <!--
 **Vin129/Vin129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
