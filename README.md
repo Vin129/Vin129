@@ -5,9 +5,9 @@
 
 年轻靠热血，等我老了，我会凭借信仰走在这条游戏人的道路之上。
 
-[CSDN](https://blog.csdn.net/qq_28820675)
+[![](https://img.shields.io/badge/CSDN-BLOG-orange)](https://blog.csdn.net/qq_28820675)
 
-![Vin129's GitHub stats](https://github-readme-stats.vercel.app/apiVin129anuraghazra)
+![Vin129's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vin129&theme=tokyonight&hide=stars)
 
 <!--
 **Vin129/Vin129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
