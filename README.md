@@ -5,8 +5,10 @@
 
 年轻靠热血，等我老了，我会凭借信仰走在这条游戏人的道路之上。
 
-### Link:
-  [CSDN](https://blog.csdn.net/qq_28820675)
+[CSDN](https://blog.csdn.net/qq_28820675)
+
+[![Vin129's GitHub stats](https://github-readme-stats.vercel.app/apiVin129anuraghazra&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Vin129/Vin129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
