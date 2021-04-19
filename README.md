@@ -1,10 +1,10 @@
 ### 嗨 👋
-### 我是Vin129，逐儿时之梦正在游戏制作的技术海洋中漂泊。
+### 我是Vin129
 ### 知道的越多，不知道的也越多。
 ### 年轻靠热心，等我老了，我会凭借信仰走在这条游戏人的道路之上。
 
 
-###Link:
+### Link:
   [CSDN](https://blog.csdn.net/qq_28820675)
 <!--
 **Vin129/Vin129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
